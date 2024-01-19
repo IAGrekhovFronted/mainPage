@@ -59,7 +59,7 @@ body {
   content: "";
   height: 15px;
   width: 15px;
-  background-image: url(/MicroPhone.png);
+  background-image: url(MicroPhone.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -106,7 +106,7 @@ body {
   content: "";
   height: 35px;
   width: 100px;
-  background-image: url(/Flag.png);
+  background-image: url(Flag.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -311,7 +311,7 @@ h3 {
   line-height: 50px;
 }
 .wrapper__Map .map {
-  background-image: url(/FirstMap.png);
+  background-image: url(FirstMap.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -345,7 +345,7 @@ h3 {
 .icon {
   margin-top: 50px;
   margin-right: 100px;
-  background-image: url(/firstItemsIcon.png);
+  background-image: url(firstItemsIcon.png);
   height: auto;
   width: 635px;
   background-size: contain;
